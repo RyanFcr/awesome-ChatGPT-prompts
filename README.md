@@ -33,4 +33,6 @@
 
 # Star History
 
-<iframe style="width:100%;height:auto;min-width:600px;min-height:400px;" src="https://star-history.com/embed?secret=Z2hwXzlrdkhSY29IU2tMRmN0dWlwOWhXYlVrejQwY2wzazRnYzlKMw==#RyanFcr/awesome-ChatGPT-prompts&Date" frameBorder="0"></iframe>
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=RyanFcr/awesome-ChatGPT-prompts&type=Date)](https://star-history.com/#RyanFcr/awesome-ChatGPT-prompts&Date)
